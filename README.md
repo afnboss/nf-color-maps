@@ -8,10 +8,10 @@
 <h1 align="center">Near-Field color maps</h1>
 
   <p align="center">
-    This project provides near-field measured data of four commercial microwave horn lens antennas (from X- to Ka-band). It also provides a jupiter notebook script to create 2D color map of the measured data.
+    This project provides near-field measured data of four commercial microwave lens horn antennas (from X- to Ka-band). It also provides a jupiter notebook script to create 2D color map of the measured data.
     <br />
     <br />
-    <b>DISCLAIMER:</b> This project is part of an academic research about how to use an out-of-date robotic arm to measure the near-field of horn lens antennas. DOI number shall be updated as soon as publication become available.
+    <b>DISCLAIMER:</b> This project is part of an academic research about how to use an out-of-date robotic arm to measure the near-field of lens horn antennas. DOI number shall be updated as soon as publication become available.
     <br />
     <br />
     <a href="https://github.com/afnboss/nf-lens-horn-antenna"><strong>Explore the docs »</strong></a>
@@ -118,7 +118,7 @@ $$
 Distance AUTRobot + Plane * \frac{Distance (z)}{Points (z)-1}
 $$
 
-    As an example, Plane 09 of the X-band horn lens antenna is at:
+    As an example, Plane 09 of the X-band lens horn antenna is at:
 
 $$
 Distance AUTRobot + Plane * \frac{Distance (z)}{Points (z)-1} = 50 mm + 9 * \frac{300 mm}{20-1} \approx 192,11 mm

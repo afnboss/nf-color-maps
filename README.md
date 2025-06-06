@@ -14,7 +14,7 @@
     <b>DISCLAIMER:</b> This project is part of an academic research about how to use an out-of-date robotic arm to measure the near-field of horn lens antennas. DOI number shall be updated as soon as publication become available.
     <br />
     <br />
-    <a href="https://github.com/afnboss/nf-color-maps"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/afnboss/nf-lens-horn-antenna"><strong>Explore the docs »</strong></a>
   </p>
 </div>
 
@@ -188,14 +188,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Alan Boss - alan.boss@inpe.br
 
-Project Link: [https://github.com/afnboss/nf-color-maps](https://github.com/afnboss/nf-color-maps)
+Project Link: [https://github.com/afnboss/nf-lens-horn-antenna](https://github.com/afnboss/nf-lens-horn-antenna)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [JupyterNotebook.js]: https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white
 [JupyterNotebook-url]: https://jupyter.org/
-[license-shield]: https://img.shields.io/github/license/afnboss/nf-color-maps.svg?style=for-the-badge
-[license-url]: https://github.com/afnboss/nf-color-maps/blob/master/LICENSE
+[license-shield]: https://img.shields.io/github/license/afnboss/nf-lens-horn-antenna.svg?style=for-the-badge
+[license-url]: https://github.com/afnboss/nf-lens-horn-antenna/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/alanboss86
